@@ -1,2 +1,2 @@
-# industrial-Ethernet-Switch-Datasheet
-Official datasheets and technical specifications for industrial Ethernet Switch
+# datasheets
+Official datasheets and technical specifications for datasheets
